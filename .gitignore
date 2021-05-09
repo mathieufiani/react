@@ -1,2 +1,5 @@
 .vscode
 .DS_Store
+first-app/node_modules
+first-app/package-lock.json
+first-app/package.json
